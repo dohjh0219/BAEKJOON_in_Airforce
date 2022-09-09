@@ -1,4 +1,4 @@
-# 2164 카드2
+# 2164 카드2 
 
 from collections import deque
 import sys
