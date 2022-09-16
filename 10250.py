@@ -1,4 +1,4 @@
-# 10250 ACM 호텔
+# 10250 ACM νΈν
 
 import sys
 
