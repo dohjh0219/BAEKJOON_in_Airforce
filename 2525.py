@@ -9,9 +9,8 @@ time=int(sys.stdin.readline())
 state=False
 
 m+=time
+
 while state==False:
-    
-    
     if m>=60:
         h+=1
         m-=60
