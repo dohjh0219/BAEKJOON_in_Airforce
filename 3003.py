@@ -15,4 +15,3 @@ need_ea[5]=8-ea[5]
 
 print(' '.join(str(x) for x in need_ea))
 # 리스트를 공백으로 구분하여 출력하는 방법
-
