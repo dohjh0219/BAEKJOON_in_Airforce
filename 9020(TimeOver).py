@@ -43,3 +43,5 @@ for i in range(n):
         print(result[cha.index(min(cha))][0],result[cha.index(min(cha))][1],sep=' ')
     else:
         print(0,num,sep=' ')
+        
+        
