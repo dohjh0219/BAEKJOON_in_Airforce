@@ -2,7 +2,7 @@
 
 import sys
 
-cache = [0] * 11  # 메모이제이션
+cache = [0] * 11  # 메모이제이션(바텀업 방식 이용->점화식 알고있기 때문)
 cache[1] = 1
 cache[2] = 2
 cache[3] = 4
